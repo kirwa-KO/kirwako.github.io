@@ -1,0 +1,25 @@
+
+.header {
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 4rem !important;
+}
+
+.bg-orange-red {
+    background-color: #fd6b3b!important;
+    color: white;
+}
+
+.bg-orange-red:hover {
+    opacity: 0.9;
+    color: white;
+}
+
+.container-fluid.services {
+    background-color: rgba(255,231,170,.09);;
+}
+
+.p-7 {
+    padding-top: 7rem !important;
+    padding-bottom: 7rem !important;
+}
